@@ -52,4 +52,7 @@
 ### Логи
 
 Запуск Elasticsearch c адресом http://158.160.54.232:5601  
-![alt text](https://github.com/AleksandrMihajlov/Diplom-netology/blob/main/Screen/2.4.png)
+![alt text](https://github.com/AleksandrMihajlov/Diplom-netology/blob/main/Screen/2.4.png)  
+  
+UPD: IP адреса сменились после перезагрузки всех вм для отключения "Прерываемая"  
+Скриншот прилагается.
