@@ -47,9 +47,9 @@
   
 Запуск Zabbix c адресом http://89.169.145.182  
 Добавлены дашборты для VM WEB  
-![alt text]()  
+![alt text](https://github.com/AleksandrMihajlov/Diplom-netology/blob/main/Screen/2.3.png)  
   
 ### Логи
 
 Запуск Elasticsearch c адресом http://158.160.54.232:5601  
-![alt text]()
+![alt text](https://github.com/AleksandrMihajlov/Diplom-netology/blob/main/Screen/2.4.png)
