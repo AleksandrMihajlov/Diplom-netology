@@ -35,7 +35,21 @@
   
 ## Сервисы  
   
-Запущен Nginx "заглушка" с адресом 158.160.148.69
-![alt text]()  
+  
+### Сайт  
+
+Запуск Nginx "заглушка" с адресом http://158.160.148.69
+![alt text](https://github.com/AleksandrMihajlov/Diplom-netology/blob/main/Screen/2.2.png)  
 Выполняем curl -v 158.160.148.69:80
+![alt text](https://github.com/AleksandrMihajlov/Diplom-netology/blob/main/Screen/2.1.png)  
+  
+### Мониторинг  
+  
+Запуск Zabbix c адресом http://89.169.145.182  
+Добавлены дашборты для VM WEB  
+![alt text]()  
+  
+### Логи
+
+Запуск Elasticsearch c адресом http://158.160.54.232:5601  
 ![alt text]()
