@@ -7,7 +7,13 @@
 Инфраструктура должна размещаться в [Yandex Cloud](https://cloud.yandex.com/) и отвечать минимальным стандартам безопасности: запрещается выкладывать токен от облака в git. 
 Используйте [инструкцию](https://cloud.yandex.ru/docs/tutorials/infrastructure-management/terraform-quickstart#get-credentials).
 
+---------
 
-Начало работы.
+# Начало работы.
 
 ---------
+
+## Инфраструктура
+
+Для развертки использовался Terraform
+![alt text](https://github.com/AleksandrMihajlov/Diplom-netology/blob/main/Screen/1.png)
