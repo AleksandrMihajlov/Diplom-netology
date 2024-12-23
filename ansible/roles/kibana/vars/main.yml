@@ -1,0 +1,8 @@
+server.port: 5601
+server.host: "0.0.0.0"
+elasticsearch.hosts: ["http://10.128.30.5:9200"]
+elasticsearch.username: "kibana_system"
+elasticsearch.password: "****************"
+
+#Используем юзер/пароль "kibana_system"
+#Для входи в веб использем юзера elastic
